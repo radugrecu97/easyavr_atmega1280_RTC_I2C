@@ -39,10 +39,10 @@ Note that the Master Reset (MR) is not used at all as it wasn't deemed necessary
 
 The I2C states were taken from the ATmega 1280 datasheet.
 
-![TWI_States](TWI_States.png)
+![TWI_States](assets/TWI_States.png)
 
 ## RTC
 
 Refer to the following table for the register addreses.
 
-![TimeKeeper_Registers](TimeKeeper_Registers.PNG)
+![TimeKeeper_Registers](assets/TimeKeeper_Registers.PNG)
